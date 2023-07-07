@@ -1,0 +1,15 @@
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\bin\Debug\net7.0\Task2_project.exe
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\bin\Debug\net7.0\Task2_project.deps.json
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\bin\Debug\net7.0\Task2_project.runtimeconfig.json
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\bin\Debug\net7.0\Task2_project.dll
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\bin\Debug\net7.0\Task2_project.pdb
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\obj\Debug\net7.0\Task2_project.csproj.AssemblyReference.cache
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\obj\Debug\net7.0\Task2_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\obj\Debug\net7.0\Task2_project.AssemblyInfoInputs.cache
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\obj\Debug\net7.0\Task2_project.AssemblyInfo.cs
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\obj\Debug\net7.0\Task2_project.csproj.CoreCompileInputs.cache
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\obj\Debug\net7.0\Task2_project.dll
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\obj\Debug\net7.0\refint\Task2_project.dll
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\obj\Debug\net7.0\Task2_project.pdb
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\obj\Debug\net7.0\Task2_project.genruntimeconfig.cache
+D:\JetBrains\JetBrains Rider 2023.1.3\RiderProjects\Summer_Practice_Csharp\Task2\Task2_project\obj\Debug\net7.0\ref\Task2_project.dll
